@@ -85,6 +85,15 @@ Player X wins!
 
 ---
 
+##Screenshots:
+<img width="1435" height="851" alt="image" src="https://github.com/user-attachments/assets/ebe8f018-0fb3-4283-86a7-782f1517daeb" />
+<img width="1457" height="801" alt="image" src="https://github.com/user-attachments/assets/e8b6d1b9-7425-4d8b-958d-77bee1e8b0d2" />
+
+
+
+
+
+
 ## Future Improvements
 
 - Add single-player mode with AI
